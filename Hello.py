@@ -1,4 +1,3 @@
-def HelloWorld(Sentence):
-    print(Sentence)
-    
-print(HelloWorld("Hi my name is Keshawn"))
+x = 1
+if x == 1:
+    print("Hello Cybersecurity Club")
